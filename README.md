@@ -1,2 +1,2 @@
-# examen-1
+# Examen
 Josué Acosta 2Do "A"
